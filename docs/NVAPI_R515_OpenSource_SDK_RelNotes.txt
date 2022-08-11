@@ -1,0 +1,44 @@
+New Functions:
+
+
+New Structures:
+
+** Added NVAPI_UAV_INFO_V2
+
+
+New Enums:
+
+** Added PC_LATENCY_PING to the enum NV_LATENCY_MARKER_TYPE
+
+New Unions:
+
+New MACRO: 
+
+New Errors:
+
+** Added NVAPI_INVALID_IMAGE to the enum NvAPI_Status
+** Added NVAPI_INVALID_PTX to the enum NvAPI_Status
+** Added NVAPI_NVLINK_UNCORRECTABLE to the enum NvAPI_Status
+** Added NVAPI_JIT_COMPILER_NOT_FOUND to the enum NvAPI_Status
+** Added NVAPI_INVALID_SOURCE to the enum NvAPI_Status
+** Added NVAPI_ILLEGAL_INSTRUCTION to the enum NvAPI_Status
+** Added NVAPI_INVALID_PC to the enum NvAPI_Status
+** Added NVAPI_LAUNCH_FAILED to the enum NvAPI_Status
+** Added NVAPI_NOT_PERMITTED to the enum NvAPI_Status
+
+TCC Support:
+
+**Added NvAPI_GPU_GetLicensableFeatures
+
+
+NVAPI Security Info:
+
+Deprecation NvAPI functions:
+
+
+Deprecation Enum values:
+
+NvAPIDriverSettings additions/ removal:
+
+
+HLSL Extentions additions/ removal:
